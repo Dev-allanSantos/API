@@ -1,31 +1,29 @@
 {
-  "tabela" : [
-  {
-    "id" : 1,
-    "product" : "Cpu Intel Core i9 9900k",
-    "preco" : 3500
-  },
+  [
+     {
+         "id" : 1,
+         "product" : "Cpu Intel Core i9 9900k",
+          "preco" : 3500
+      },
   
-  {
-    "id" : 2,
-    "product" : "Monitor LED 24 1920x1080 Curvo FHD 144 Hz HDMI DP ",
-    "preco" : 1200
-  },
+      {
+         "id" : 2,
+         "product" : "Monitor LED 24 1920x1080 Curvo FHD 144 Hz HDMI DP ",
+         "preco" : 1200
+      },
     
-  {
-    "id" : 3,
-    "product" : "Notebook lenovo 8GB RAM 256GB intel core i5 9900 ",
-    "preco" : 4500
-  },
+      {
+        "id" : 3,
+        "product" : "Notebook lenovo 8GB RAM 256GB intel core i5 9900 ",
+        "preco" : 4500
+      },
     
-  {
-    "id" : 4,
-    "product" : "HD SSD 480GB" ,
-    "preco" : 500
-  }
+      {
+        "id" : 4,
+        "product" : "HD SSD 480GB" ,
+        "preco" : 500
+      }
   
-]
-
-
+  ]
 }
 
