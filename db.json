@@ -3,7 +3,7 @@
      {
          "id" : 1,
          "product" : "Cpu Intel Core i9 9900k",
-          "preco" : 3500
+         "preco" : 3500
       },
   
       {
@@ -23,7 +23,6 @@
         "product" : "HD SSD 480GB" ,
         "preco" : 500
       }
-  
-  ]
+]
 }
 
